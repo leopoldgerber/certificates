@@ -10,4 +10,4 @@
 ## - Data Science -
 ### ML-engineer
 ![ML-engineer (completed) RU](https://github.com/leopoldgerber/certificates/assets/114569329/7aa7c7a1-a715-4da8-9511-74da27a61e10)
-![ML-разработчик (Завершил) RU](https://github.com/leopoldgerber/certificates/assets/114569329/f05e07c2-74c3-4b43-8263-f55770c0f292)
+![ML-разработчик (Завершил) RU 1](https://github.com/leopoldgerber/certificates/assets/114569329/82b2184f-871d-4625-aa70-960855fb851b)
