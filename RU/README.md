@@ -8,3 +8,8 @@
 ## - Data Science -
 ### ML-engineer
 ![ML-разработчик (Завершил) RU](https://github.com/leopoldgerber/certificates/assets/114569329/961a763f-a631-4655-8af9-22cb84b4492b)
+
+<br>
+
+## - Statistics -
+![Основы статистики](https://github.com/leopoldgerber/certificates/assets/114569329/1af65506-6b4d-44a0-a130-87a18c6d8f61)
