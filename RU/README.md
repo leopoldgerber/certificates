@@ -1,13 +1,14 @@
 # Сертификаты
 
 ## - Data Analysis -
-![Data Analyst RU](https://github.com/leopoldgerber/certificates/assets/114569329/b29f7b0d-4da0-4b61-ba1b-65cc72fa394c)
+[Data Analyst RU.pdf](https://github.com/leopoldgerber/certificates/files/12162265/Data.Analyst.RU.pdf)
+
 
 <br>
 
 ## - Data Science -
 ### ML-engineer
-![ML-разработчик (Завершил) RU](https://github.com/leopoldgerber/certificates/assets/114569329/961a763f-a631-4655-8af9-22cb84b4492b)
+[ML-разработчик (Завершил) RU 1.pdf](https://github.com/leopoldgerber/certificates/files/12162268/ML-.RU.1.pdf)
 
 <br>
 
