@@ -1,16 +1,18 @@
 # Certificates
 
 ## - Data Analysis -
-![Data Analyst EN](https://github.com/leopoldgerber/certificates/assets/114569329/ea4cc9a0-b10f-430f-94e2-9453ad5f5ac4)
-![Data Analyst RU](https://github.com/leopoldgerber/certificates/assets/114569329/aa78cc50-e9f7-4e3f-b33c-cb62e731d3ea)
+![Data Analyst RU](https://github.com/leopoldgerber/certificates/assets/114569329/f80cd318-7688-42c9-89eb-8ce6ae1dce68)
+![Data Analyst EN](https://github.com/leopoldgerber/certificates/assets/114569329/633fc9f8-636a-4fa6-a30e-2100bfcf48d3)
+
 
 <br>
 <br>
 
 ## - Data Science -
 ### ML-engineer
-![ML-engineer (completed) RU](https://github.com/leopoldgerber/certificates/assets/114569329/7aa7c7a1-a715-4da8-9511-74da27a61e10)
-![ML-разработчик (Завершил) RU 1](https://github.com/leopoldgerber/certificates/assets/114569329/82b2184f-871d-4625-aa70-960855fb851b)
+![ML-разработчик (Завершил) RU 1](https://github.com/leopoldgerber/certificates/assets/114569329/e6ee8fa9-f0d3-481d-973a-7505288bbfaa)
+![ML-engineer (completed) EN](https://github.com/leopoldgerber/certificates/assets/114569329/1d977698-7955-40c8-8e17-1904487b2359)
+
 
 <br>
 <br>
